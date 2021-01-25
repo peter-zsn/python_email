@@ -23,7 +23,7 @@ mailto_list = [
 
 mail_host = 'smtp.163.com'  # 设置网易163服务器
 mail_user = '15294627382@163.com'  # 用户名
-mail_pass = 'ZSN1993zsn'  # 口令
+mail_pass = '****'  # 口令
 sender = '15294627382@163.com'
 
 content_title = '''<table width="100%%" border="1" cellspacing="0"  >
